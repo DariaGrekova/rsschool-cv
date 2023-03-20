@@ -23,7 +23,7 @@ I would like to become a qualified, in-demand specialist in the field of fronten
 * Gulp/Babel
 
 ### Code Example
-`
+```
 function spinWords(string){
   let arr = string.split(' ');
   let newWords = arr.map(item => {
@@ -37,7 +37,7 @@ function spinWords(string){
   return newArr;
 }
 spinWords('мама я в Майами')
-`
+```
 ### Work Experience
 * *August 2022 - Until now* - OOO "Айтис Веб" (Frontend developer)
 **Responsibilities:**
