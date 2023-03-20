@@ -50,3 +50,6 @@ Interaction with backend developers.
 * Layout [Hexlet - Layout-designer](https://ru.hexlet.io/programs/layout-designer)
 * Basics of JavaScript programming [Code-Basics - Javascript ](https://code-basics.com/ru/languages/javascript)
 * At the moment I am a student of the course [The Rolling Scopes School - JS(#stage1)](https://rs.school/js)
+
+### English
+A2 - Beginner
