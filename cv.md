@@ -38,4 +38,15 @@ function spinWords(string){
 }
 spinWords('мама я в Майами')
 `
+### Work Experience
+* *August 2022 - Until now* - OOO "Айтис Веб" (Frontend developer)
+**Responsibilities:**
+Writing from scratch /completion of corporate portals, corporate websites, online stores (layout + interface development).
+Integration of the layout in 1C Bitrix Site Management.
+Interaction with backend developers.
 
+### Education
+**Completed courses:**
+* Layout [Hexlet - Layout-designer](https://ru.hexlet.io/programs/layout-designer)
+* Basics of JavaScript programming [Code-Basics - Javascript ](https://code-basics.com/ru/languages/javascript)
+* At the moment I am a student of the course [The Rolling Scopes School - JS(#stage1)](https://rs.school/js)
